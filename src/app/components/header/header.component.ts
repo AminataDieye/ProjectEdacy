@@ -14,12 +14,12 @@ export class HeaderComponent implements OnInit {
     {value: 'en', viewValue: 'English'},
     {value: 'fr', viewValue: 'French'},
   ];
-  
+
   isSticky: boolean = false;
   @HostListener('window:scroll', ['$event'])
   checkScroll() {
     this.isSticky = window.pageYOffset >= 250;
-    
+
   }
 
   constructor() { }
