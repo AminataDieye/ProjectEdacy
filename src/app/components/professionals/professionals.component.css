@@ -1,0 +1,82 @@
+
+.bloc
+{
+    width:100%;
+    height: auto;
+}
+.bloc-image
+{
+  background-image: url("src/assets/images/video-banner--enterprise.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 660px;
+}
+.banniere
+{
+  width: 100%;
+  height: 660px;
+}
+.play
+{
+  width: 45px;
+}
+.row0
+{
+  margin-top: -480px;
+  margin-left: 220px;
+}
+.entete-row0
+{
+  font-size: 65px;
+  color: #ffc107;
+}
+.texte-row0
+{
+  color: white;
+  font-size: 30px;
+ line-height: 1.5em;
+}
+.row1
+{
+  margin-top: 220px;
+}
+.entete-titre
+{
+  color: black;
+  font-size: 48px;
+}
+.entete-titre1
+{
+  color: #61bfad;
+  font-size: 48px;
+  line-height: 1.2em;
+  text-align: center;
+
+  
+}
+.entete-texte
+  {
+    font-size: 22px;
+    text-align: center;
+    line-height: 1.5em;
+  }
+  .entete-button
+  {
+    background-color:#ffcc00;
+    color: black;
+    height: 58px;
+    width: 350px;
+    text-align: center;
+    font-size: 18px;
+    border-style: none;
+  }
+  .entete-button1
+  {
+    background-color:#ffcc00;
+    color: black;
+    height: 58px;
+    width: 190px;
+    text-align: center;
+    font-size: 18px;
+    border-style: none;
+  }

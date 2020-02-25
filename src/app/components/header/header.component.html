@@ -1,0 +1,52 @@
+
+<mat-toolbar class="entete">
+  <mat-toolbar-row>
+    <div class="MENU">
+      
+    <a [routerLink]="['/home']"  routerLinkActive="active"> 
+    <img class="logo" src="../../../../assets/images/logo.svg">
+    </a>
+
+    <mat-form-field class="lang" >
+      <mat-label>Langue</mat-label>
+      <mat-select>
+        <mat-option *ngFor="let lang of langs" [value]="lang.value">
+          {{lang.viewValue}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+
+    <a  class= "titres border2" style="color: black;" [routerLink]="['/students']" routerLinkActive="active">
+      ETUDIANTS 
+    </a>
+
+    
+    <a  class= "titres border3" style="color: black;" [routerLink]="['/professionals']" routerLinkActive="active">
+      PROFESSIONNELS
+      </a>
+
+      <a  class= "titre" style="color: black;" [routerLink]="['/signup']" routerLinkActive="active">
+
+        <button mat-stroked-button class="signup border4">
+         S'INSCRIRE
+        </button>
+    </a>
+
+<a  class= "titre" style="color: black;" [routerLink]="['/login']" routerLinkActive="active">
+      <button mat-stroked-button class="login">
+        CONNEXION
+      </button>
+    </a>
+    </div>
+ 
+
+  
+
+</mat-toolbar-row>
+</mat-toolbar>
+
+
+
+
+

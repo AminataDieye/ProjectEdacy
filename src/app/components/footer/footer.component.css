@@ -1,0 +1,71 @@
+.footer
+{
+    width: 100%;
+    height: auto;
+    background-color:rgba(97,191,173,.25);
+    overflow: hidden;
+
+
+}
+
+
+.bloc1
+{
+    width: 100%;
+    height: 230px;
+    
+}
+
+.bloc2
+{
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+
+}
+    .titre
+    {
+        font-size: 45px;
+        color: #61bfad;
+        
+    }
+    .texte
+    {
+        font-size: 15px;
+        color: #61bfad;
+        font-weight: 600;
+    }
+    .texte1
+    {
+        font-size: 12px;
+        color: #61bfad;
+    }
+
+
+    
+    .button
+{
+    background-color:#61bfad;
+    color: black;
+    height: 60px;
+    width: 225px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 0;
+    margin-top: 10px;
+}
+    .EMAIL
+    {
+      width: 100%;
+    padding: 22px 260px;
+    margin: 8px 0;
+    border: 2px solid #61bfad;
+    box-sizing: border-box;
+    background-color:rgba(152,210,199,0.25);
+    }
+    .EMAIL::placeholder{
+        color: #61bfad;
+    }
+   
+    
+    

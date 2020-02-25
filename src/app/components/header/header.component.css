@@ -1,0 +1,100 @@
+
+.fixed-header {
+  position: fixed;
+  z-index:999;
+  height: 50px;
+}
+
+
+.border2
+{
+  
+
+ 
+  margin-left: 200px;
+  margin-right: 20px;
+}
+.logo 
+{
+  height: 25px;
+}
+.border3
+{
+  
+  margin-right: -20px;
+}
+.border4
+{
+  
+
+  margin-left: 40px;
+  margin-right: 8px;
+}
+
+.lang
+{
+  margin-left: 100px;
+  margin-right: -150px;
+  width: 50px;
+}
+
+
+
+ a.titres:link
+{
+text-decoration:none;
+font-size: 15px;
+letter-spacing: 0.2em;
+font-weight: normal;
+
+
+}
+
+a.titre:link
+{
+text-decoration:none;
+font-size: 2px;
+letter-spacing: 0.1em;
+font-weight: normal;
+
+
+}
+
+.entete {
+  position: fixed;
+  z-index:999;
+   background: #FFF;
+   color: rgba(0,0,0,.87);
+   margin-bottom: 60px;
+   height: 120px;
+
+}
+.signup {
+   background-color: #ffc107;
+   border-color: white;
+   height: 40px;
+   width: 130px;
+
+}
+.signup:hover {
+   opacity: 0.5;
+ }
+ .login:hover {
+   opacity: 0.5;
+ }
+
+.login
+{
+   background-color: #61bfad;
+   height: 40px;
+   width: 130px;
+   border-color: white;
+
+
+}
+
+.MENU 
+{
+
+  padding: 70px 200px 0 200px;
+}

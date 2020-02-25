@@ -1,0 +1,71 @@
+.hello
+{
+    height: 22px;
+    background-color: teal;
+    position: absolute;
+    margin-top: 100px;
+}
+.home
+{
+    
+    height: 410px;
+    width: 100%;
+    background-color: #F1F0F0;
+    margin-top: 100px;
+
+}
+.bloc
+{
+    width: 100%;
+    position: absolute;
+    margin-top: 45px;
+    background-color: #F1F0F0;
+    height: 320px;
+
+
+}
+.button
+{
+    background-color:#ffcc00;
+    color: black;
+    height: 50px;
+    width: 240px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 0;
+}
+.entete{
+    color: #61bfad;
+    font-size: 48px;
+    margin-top: 20px;
+}
+.texte
+{
+    font-size: 22px;
+    text-align: center;
+    line-height: 1.5em;
+    color: gray;
+}
+.cofina
+  {
+     
+      height: 50px;
+      
+  }
+  .gainde
+  {
+     
+      height: 50px;
+      
+  }
+  .unicef
+  {
+     
+      height: 32px;
+      
+  }.expresso
+  {
+     
+      height: 70px;
+      
+  }
