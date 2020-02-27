@@ -1,61 +1,3 @@
-.fixed-header {
-  position: fixed;
-  z-index: 999;
-  height: 50px;
-}
-
-.fill-remaining-space {
-  flex: 1 1 auto;
-}
-
-.aspire {
-  position: absolute;
-  bottom: 320px;
-  right: 600px;
-  color: #ffc107;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-a.titres:link {
-  text-decoration: none;
-  font-size: 15px;
-  letter-spacing: 0.2em;
-  font-weight: normal;
-}
-
-.entete {
-  position: fixed;
-  z-index: 999;
-  background: #fff;
-  color: rgba(0, 0, 0, 0.87);
-  margin-bottom: 60px;
-  height: 120px;
-}
-.signup {
-  background-color: #ffc107;
-  padding: 2px 40px;
-  border-color: white;
-}
-.signup:hover {
-  background-color: #f5f5f5;
-}
-.login:hover {
-  background-color: #f5f5f5;
-}
-
-.login {
-  background-color: #61bfad;
-  padding: 2px 40px;
-  border-color: white;
-}
-.gris {
-  background-color: gray;
-  margin-bottom: 192px;
-  padding: 200px 32px;
-  margin-left: 1278px;
-  height: 8px;
-}
 
 .menu1 {
   height: auto;
@@ -68,274 +10,17 @@ a.titres:link {
   width: 100%;
   height: 660px;
 }
-.second {
-  background-color: white;
-  height: 400px;
-  width: 1350px;
-}
-.texte1 {
-  position: absolute;
-  bottom: 400px;
-  right: 300px;
-  color: #ffc107;
-  font-size: 60px;
+
+.align-bloc1
+{
+  margin-left: 100px;
 }
 
-.texte3 {
-  position: absolute;
-  bottom: 110px;
-  right: 430px;
-  color: white;
-  font-size: 30px;
-}
-.entreprise {
-  position: absolute;
-  top: 730px;
-  left: 250px;
-  text-align: center;
-  background-color: white;
-  color: #61bfad;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 45px;
-}
-.prog {
-  position: absolute;
-  top: 2320px;
-  left: 200px;
-  background-color: white;
-  color: black;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 22px;
-}
-.remb {
-  position: absolute;
-  top: 3110px;
-  left: 200px;
-  background-color: white;
-  color: black;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 22px;
-}
-.progopenl {
-  position: absolute;
-  top: 2730px;
-  left: 200px;
-  background-color: white;
-  color: black;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 22px;
-}
-.openl {
-  position: absolute;
-  top: 2650px;
-  left: 450px;
-  text-align: center;
-  background-color: white;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 45px;
-}
-.empl {
-  position: absolute;
-  top: 3050px;
-  left: 450px;
-  text-align: center;
-  background-color: white;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 45px;
-}
-.workle {
-  position: absolute;
-  top: 2250px;
-  left: 450px;
-  text-align: center;
-  background-color: white;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 45px;
-}
 
-.worklea {
-  position: absolute;
-  top: 2500px;
-  left: 450px;
-  text-align: center;
-  background-color: #ffc107;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 20px;
-  height: 55px;
-  width: 300px;
-}
-.openlea {
-  position: absolute;
-  top: 2910px;
-  left: 450px;
-  text-align: center;
-  background-color: #61bfad;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 20px;
-  height: 55px;
-  width: 300px;
-}
-
-.acceder {
-  position: absolute;
-  top: 790px;
-  left: 200px;
-  background-color: white;
-  color: black;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 22px;
-}
-.en-savoir {
-  position: absolute;
-  top: 970px;
-  left: 550px;
-  background-color: #ffcc00;
-  color: black;
-  height: 50px;
-  width: 200px;
-  text-align: center;
-}
-
-.home2 {
-  background-image: url("src/assets/images/home2.png");
-  height: 600px;
-  background-repeat: no-repeat;
-}
 .play {
   height: 45px;
 }
 
-.bloc-home {
-  width: 100%;
-  margin: auto;
-  margin-top: 100px;
-}
-.bloc-home1 {
-  width: 100%;
-}
-.ftexte {
-  background-color: #efefef;
-  height: 600px;
-  width: 50%;
-  padding: 20px;
-}
-.img1 {
-  background-image: url("src/assets/images/home2.png");
-}
-
-.img2 {
-  background-image: url("src/assets/images/home3.png");
-}
-
-.home3 {
-  background-image: url("src/assets/images/home3.png");
-  height: 600px;
-  background-repeat: no-repeat;
-}
-.three {
-  background-color: white;
-  height: 800px;
-  width: 1350px;
-  margin-top: -210px;
-}
-
-.four {
-  background-color: white;
-  height: 800px;
-  width: 1350px;
-}
-
-.texte2 {
-  color: white;
-  position: absolute;
-  bottom: 180px;
-  right: 130px;
-  font-size: 30px;
-  line-height: 1.5em;
-}
-.apprendre {
-  background-color: #61bfad;
-  height: 556px;
-  width: 726px;
-  margin-top: -282px;
-  margin-left: -20px;
-}
-.solu {
-  background-color: #ffc107;
-  height: 556px;
-  margin-top: 205px;
-  width: 790px;
-  margin-right: -16px;
-}
-
-.unesol {
-  font-size: 35px;
-  margin-top: 50px;
-  margin-left: 70px;
-  line-height: 1.4em;
-}
-.app {
-  font-size: 35px;
-  margin-top: 75px;
-  margin-left: 70px;
-  line-height: 1.4em;
-}
-.selec {
-  font-size: 25px;
-  margin-top: 60px;
-  margin-left: 70px;
-  line-height: 1.5em;
-}
-
-.aft {
-  font-size: 25px;
-  margin-top: 60px;
-  margin-left: 70px;
-  line-height: 1.5em;
-}
-
-.parten {
-  font-size: 20px;
-  margin-top: 45px;
-  margin-left: 70px;
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
-  height: 60px;
-  width: 240px;
-  text-align: center;
-}
-
-.workl {
-  font-size: 20px;
-  margin-top: 55px;
-  margin-left: 70px;
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
-  height: 55px;
-  width: 300px;
-  text-align: center;
-}
 
 .entete-button {
   background-color: #ffcc00;
@@ -347,10 +32,8 @@ a.titres:link {
   border-style: none;
 }
 .first-bloc {
-  width: 600px;
   margin: auto;
-  margin-top: -430px;
-  margin-left: 60%;
+  margin-left: 50%;
 }
 .first-bloc-entete {
   font-size: 65px;
@@ -463,34 +146,21 @@ a.first-bloc-texte:link {
   line-height: 1.4em;
   font-size: 35px;
 }
-.column4 {
-  line-height: 1.4em;
-  font-size: 35px;
-  margin-top: 60px;
-  margin-right: 60px;
-}
 .column2 {
   font-size: 24px;
   line-height: 1.5em;
-  margin-left: 20px;
 }
-.column5 {
-  font-size: 24px;
-  line-height: 1.5em;
-  margin-right: 5px;
-  margin-top: 20px;
-}
+
 .column3 {
   font-size: 20px;
   border-style: solid;
   border-color: black;
-  margin-top: 50px;
-  margin-left: -180px;
+  border-radius: 0px;
 }
 .entete-bloc {
   width: 100%;
   margin: auto;
-  margin-top: 180px;
+  margin-top: 100px;
 }
 .bloc-home1 {
   width: 100%;

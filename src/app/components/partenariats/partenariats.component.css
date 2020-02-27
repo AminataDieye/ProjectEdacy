@@ -1,10 +1,4 @@
-.hello
-{
-    height: 22px;
-    background-color: teal;
-    position: absolute;
-    margin-top: 100px;
-}
+
 .home
 {
     
@@ -28,11 +22,12 @@
 {
     background-color:#ffcc00;
     color: black;
-    height: 50px;
-    width: 240px;
+    height: 58px;
+    width: 222px;
     text-align: center;
     font-size: 18px;
     border-radius: 0;
+   
 }
 .entete{
     color: #61bfad;

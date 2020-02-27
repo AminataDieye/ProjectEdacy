@@ -1,5 +1,5 @@
 
-.bloc
+.blocs
 {
     width:100%;
     height: auto;
@@ -10,11 +10,104 @@
   background-repeat: no-repeat;
   width: 100%;
   height: 660px;
+  background-size: cover;
 }
+
 .banniere
 {
   width: 100%;
   height: 660px;
+  background-image: url("src/assets/images/video-banner--enterprise.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button1 {
+  border-color: black;
+  height: 58px;
+  width: 286px;
+  text-align: center;
+  font-size: 18px;
+  border-style: solid;
+  border-radius: 0px;
+}
+.button2 {
+  border-color: black;
+  height: 58px;
+  width: 249.25px;
+  text-align: center;
+  font-size: 18px;
+  border-style: solid;
+  border-radius: 0px;
+}
+ .button-row1
+  {
+    background-color:#ffcc00;
+    color: black;
+    height: 58px;
+    width: 350px;
+    text-align: center;
+    font-size: 18px;
+    border-style: none;
+  }
+.button2
+{
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 0px;
+  height: 58px;
+  width: 285.69px;
+  text-align: center;
+}
+.image1
+{
+  height: 640px;
+  background-image: url("src/assets/images/openlearning.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.row3 {
+  width: 100%;
+  background-color: #ffcc00;
+  
+}
+.row4 {
+  width: 100%;
+  background-color: #61bfad;
+}
+.texte1
+{
+  margin-left: 100px;
+}
+.texte2
+{
+  margin-left: 100px;
+}
+.row1
+{
+margin-top: 20%; 
+
+}
+.row2
+{
+  width: 100%;
+  height: auto;
+}
+.column1 {
+  line-height: 1.4em;
+  font-size: 35px;
+}
+.column2 {
+  font-size: 24px;
+  line-height: 1.5em;
+}
+.image2
+{  
+  height: 640px;
+  width: 100%;
+  background-image: url("src/assets/images/sharetalent.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .play
 {
@@ -22,12 +115,14 @@
 }
 .row0
 {
-  margin-top: -480px;
-  margin-left: 220px;
+  margin: auto;
+  margin-left: 12%;
+
+
 }
 .entete-row0
 {
-  font-size: 65px;
+  font-size: 60px;
   color: #ffc107;
 }
 .texte-row0
@@ -40,7 +135,13 @@
 {
   margin-top: 220px;
 }
-.entete-titre
+.row11
+{
+  height: 890px;
+  width: 100%;
+  background-color: brown;
+}
+.entete-row1
 {
   color: black;
   font-size: 48px;
@@ -54,11 +155,30 @@
 
   
 }
-.entete-texte
+.texte-row1
   {
     font-size: 22px;
     text-align: center;
     line-height: 1.5em;
+  }
+  .entete-texte1
+  {
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.5em;
+  }
+  .titre 
+  {
+    font-size: 22px;
+    text-align: center;
+    line-height: 1.5em;
+    color: #ffcc00 ;
+  }
+  
+  .bloc6
+  {
+    width: 100%;
+    height: 700px;
   }
   .entete-button
   {
