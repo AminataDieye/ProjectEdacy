@@ -1,5 +1,7 @@
 # Projet1
 
+Learn Angular and Angular Material with a project that consists of taking over the frontend part of the Edacy platform
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
 ## Development server
